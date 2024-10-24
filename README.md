@@ -1,1 +1,1 @@
-# solu-es_thinkpyhton
+# Algumas soluções de ecercicios do livro pense em python
